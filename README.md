@@ -159,7 +159,9 @@ Jeśli masz pytania dotyczące niniejszej Polityki Prywatności lub sposobu, w j
 ## 15. Organ nadzorczy
 
 Jeśli uważasz, że przetwarzanie Twoich danych osobowych narusza przepisy RODO, masz prawo złożyć skargę do organu nadzorczego:
+ Konto rodzica (opcjonalne) przechowuje adres e-mail i identyfikator konta w usłudze Google Firebase. Rodzic może dodać profil dziecka zawierający wyłącznie imię lub pseudonim, ikonę i klasę; nie zbieramy nazwisk ani adresów e-mail dzieci. Wyniki testów dziecka są zapisywane na koncie rodzica, aby rodzic mógł śledzić postępy. Bez konta wyniki pozostają tylko w pamięci telefonu. Konto wraz ze wszystkimi danymi (profilami dzieci, wynikami i połączonymi telefonami) można w każdej chwili usunąć w aplikacji: Ustawienia konta → Usuń konto, lub prosząc o to e-mailem: [adres]. Aplikacja wyświetla reklamy niepersonalizowane, dostosowane do odbiorców dziecięcych (Google AdMob, Unity Ads).
 
+ 
 **Urząd Ochrony Danych Osobowych**  
 ul. Stawki 2  
 00-193 Warszawa  
